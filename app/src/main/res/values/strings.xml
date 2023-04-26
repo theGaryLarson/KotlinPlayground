@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KotlinPlayground</string>
+    <string name="someTextInput">Hello BC!</string>
+    <string name="buttonText">BUTTON</string>
+    <string name="incrementButton">increment</string>
+    <string name="decrementButton">decrement</string>
+    <string name="resetButton">reset</string>
 </resources>
